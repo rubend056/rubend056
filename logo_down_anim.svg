@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="61.44pt" height="61.44pt" viewBox="0 0 61.44 61.44" class="logo">
+	<defs/>
+
+	<style>
+	@keyframes rotate{
+		0%{transform: rotate(0deg);opacity:0}
+		10%{transform: rotate(0deg);opacity:1}
+		50%{transform: rotate(180deg);opacity:1}
+		90%{transform: rotate(180deg);opacity:1}
+		100%{transform: rotate(180deg);opacity:0}
+	}
+	.logo{
+		filter: invert(1);
+		animation: rotate 10s forwards infinite;
+	}
+	</style>
+
+	<path id="shape0" transform="matrix(1.00000002235174 0 0 1.00000002235174 7.68000017166138 7.68000017166138)" fill="none" stroke="#000000" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="14.4,7.2" d="M7.68 0C25.8458 0 36.0858 0 38.4 0C41.8714 0 46.08 3.44273 46.08 7.68C46.08 11.9173 46.08 34.3356 46.08 38.4C46.08 42.4644 42.7437 46.08 38.4 46.08C35.5042 46.08 12.3994 46.1512 7.68 46.08C2.72058 46.0051 0 41.0138 0 38.4C0 34.4794 0 11.767 0 7.68C0 3.59298 3.1028 0 7.68 0Z" sodipodi:nodetypes="czzzzszcc"/>
+
+	<path id="shape1" transform="matrix(1.00000002235174 0 0 1.00000002235174 18.4071118060244 7.92116836782689)" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M32.5044 1.92265C22.4182 -7.89363 -8.22337 22.5445 2.09364 33.1138C12.4107 43.6831 22.5818 22.9651 12.3129 22.7988" sodipodi:nodetypes="czc"/>
+
+</svg>
