@@ -19,6 +19,7 @@
 			}
 			#logo-container{
 				text-align:center;
+				font-size: 30px;
 			}
 			.main{
 				filter: invert(1);
@@ -26,7 +27,8 @@
 			</style>
 
 			<div id="logo-container">
-				(/¯◡ ‿ ◡)/¯ ~	<svg id="logo"
+				(/¯◡ ‿ ◡)/¯ ~	
+				<svg id="logo"
 					xmlns="http://www.w3.org/2000/svg"
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					xmlns:krita="http://krita.org/namespaces/svg/krita"
