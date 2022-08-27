@@ -15,9 +15,9 @@
 				animation: rotate 10s forwards infinite;
 				max-height:1.3em;
 				margin-bottom:-0.25em;
+				display: inline-block;
 			}
-			.container{
-				font-size: 30px;
+			#logo-container{
 				text-align:center;
 			}
 			.main{
@@ -25,9 +25,8 @@
 			}
 			</style>
 
-			<div class="container">
-				(/¯◡ ‿ ◡)/¯ ~ 
-				<svg id="logo"
+			<div id="logo-container">
+				(/¯◡ ‿ ◡)/¯ ~	<svg id="logo"
 					xmlns="http://www.w3.org/2000/svg"
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					xmlns:krita="http://krita.org/namespaces/svg/krita"
@@ -39,6 +38,7 @@
 					<path id="shape1" transform="matrix(1.00000002235174 0 0 1.00000002235174 18.4071118060244 7.92116836782689)" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="bevel" d="M32.5044 1.92265C22.4182 -7.89363 -8.22337 22.5445 2.09364 33.1138C12.4107 43.6831 22.5818 22.9651 12.3129 22.7988" sodipodi:nodetypes="czc"/>
 
 				</svg>
+
 			</div>
 		</div>
 	</foreignObject>
