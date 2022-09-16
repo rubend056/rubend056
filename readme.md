@@ -8,5 +8,6 @@
 <p align="center">
 	
 <img src="./main.svg"/>
+	<br/>
 	rubend@anty.dev
 </p>
