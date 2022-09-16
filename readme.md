@@ -6,5 +6,7 @@
 </p> -->
 
 <p align="center">
+	
 <img src="./main.svg"/>
+	rubend@anty.dev
 </p>
