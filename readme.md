@@ -27,5 +27,4 @@
   	<img alt="Python" src="https://img.shields.io/badge/-Python-860?style=flat&logo=python&logoColor=white" />
 	<img alt="Lua" src="https://img.shields.io/badge/-Lua-147?style=flat&logo=lua&logoColor=white" />
   	<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-362?style=flat&logo=Node.js&logoColor=white" />
-  	<img alt="Angular" src="https://img.shields.io/badge/-Angular-202?style=flat&logo=angular&logoColor=white" />
 </p>
