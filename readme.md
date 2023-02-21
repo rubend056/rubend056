@@ -18,6 +18,7 @@
 	<img alt="C++" src="https://img.shields.io/badge/-C++-43853d?style=flat&logo=cplusplus&logoColor=white" />
 	<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 	<img alt="CouchDB" src="https://img.shields.io/badge/-CouchDB-B33?style=flat&logo=apachecouchdb&logoColor=white" />
+	<img alt="RethinkDB" src="https://img.shields.io/badge/-RethinkDB-167?style=flat" />
 	<img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=black" />
