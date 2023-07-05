@@ -8,10 +8,10 @@
 
 </p>
 
-## Working on [talebox](https://talebox.anty.dev)
+## Working on [talebox](https://talebox.dev)
 
 
-### Familiar Concepts
+### Languages
 <p>
 	<img alt="Rust" src="https://img.shields.io/badge/-Rust-111?style=flat&logo=rust&logoColor=white" />
 	<img alt="C" src="https://img.shields.io/badge/-C-43853d?style=flat&logo=c&logoColor=white" />
